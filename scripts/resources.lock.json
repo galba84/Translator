@@ -1,0 +1,112 @@
+[
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/config.json",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/config.json",
+        "sha256":  "499eae1f97eeba63172fc884f92fd727ae803b7ceb79c0f653aa4b011152af2f"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/tokenizer.json",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/tokenizer.json",
+        "sha256":  "285eb29e7155ee48851a77960797813f86a125f70d2c1a124f613f1fbd2b19c3"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/vocab.json",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/vocab.json",
+        "sha256":  "b074b4cca0036ade5a39ea97faabd534e1015482c480fc2cb02c6481983eb163"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/source.spm",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/source.spm",
+        "sha256":  "4dd547c24816a335e7b0b2e63376a8f1b3cbfc671eda5ab808dd44fdadaa8791"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/target.spm",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/target.spm",
+        "sha256":  "e236ee6d866b635c0142114f8647f39831f9d92534aa2aad75c942f6a78ad0e3"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/README.md",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/README.md",
+        "sha256":  "5a226bf2ff9f0845d582e074cddbc8e69d6172058126cdcbe3998bb00e033d1a"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/encoder_model_quantized.onnx",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/onnx/encoder_model_quantized.onnx",
+        "sha256":  "03434edd1147e6c49e22066e9dc5888235e99cc35a6711d1c4ea5b06455d5da9"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/decoder_model_quantized.onnx",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/onnx/decoder_model_quantized.onnx",
+        "sha256":  "2b45074cc819f1d901e40510d7bc0781d99327d16c7eca04518c4ee0c3d6ba10"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/en-es/decoder_with_past_model_quantized.onnx",
+        "url":  "https://huggingface.co/Xenova/opus-mt-en-es/resolve/4b002a4c7edd54a7ced58877258b87f7efd3f892/onnx/decoder_with_past_model_quantized.onnx",
+        "sha256":  "163a130a2cc61d1326030abe338af30f3c9b864a2c5405de11648e7ccb1c1dac"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/config.json",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/config.json",
+        "sha256":  "fab3a7f93185bc5aa7b419f6a1e6e74d98c8f2a506c94493d3019bf46da3478d"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/tokenizer.json",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/tokenizer.json",
+        "sha256":  "285eb29e7155ee48851a77960797813f86a125f70d2c1a124f613f1fbd2b19c3"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/vocab.json",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/vocab.json",
+        "sha256":  "b074b4cca0036ade5a39ea97faabd534e1015482c480fc2cb02c6481983eb163"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/source.spm",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/source.spm",
+        "sha256":  "e236ee6d866b635c0142114f8647f39831f9d92534aa2aad75c942f6a78ad0e3"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/target.spm",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/target.spm",
+        "sha256":  "4dd547c24816a335e7b0b2e63376a8f1b3cbfc671eda5ab808dd44fdadaa8791"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/README.md",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/README.md",
+        "sha256":  "dfd10182d98db755495900a0faeae3cb71b4fdf029265045b7ef463a85adbd4a"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/encoder_model_quantized.onnx",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/onnx/encoder_model_quantized.onnx",
+        "sha256":  "c01e70f8455efc350831aa2af7ed187b16829241f0018ba07d1ba643a391bc18"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/decoder_model_quantized.onnx",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/onnx/decoder_model_quantized.onnx",
+        "sha256":  "d518f1f0041b2831f0aeb5a087cf899742cd9d4b574f6b98ad9f816b8c06925b"
+    },
+    {
+        "path":  "app/src/main/assets/models/translation/es-en/decoder_with_past_model_quantized.onnx",
+        "url":  "https://huggingface.co/Xenova/opus-mt-es-en/resolve/eadfd7c658a9d8929ac3b8e996b68a68e2c7d480/onnx/decoder_with_past_model_quantized.onnx",
+        "sha256":  "c3d587fc040d6d9669faa45658d51c241aea89e8c25617814d136426aed7c11f"
+    },
+    {
+        "path":  "app/libs/sherpa-onnx-static-link-onnxruntime-1.12.20.aar",
+        "url":  "https://github.com/k2-fsa/sherpa-onnx/releases/download/v1.12.20/sherpa-onnx-static-link-onnxruntime-1.12.20.aar",
+        "sha256":  "c8a88a8390ea699b24c49a31c56e8b2e3515c5cd5a2a49f8555a3b3fd68d253a"
+    },
+    {
+        "path":  ".work/downloads/sherpa-onnx-whisper-base.tar.bz2",
+        "url":  "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-base.tar.bz2",
+        "sha256":  "911b2083efd7c0dca2ac3b358b75222660dc09fb716d64fbfc417ba6c99ff3de"
+    },
+    {
+        "path":  ".work/downloads/vits-piper-en_US-lessac-medium.tar.bz2",
+        "url":  "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-en_US-lessac-medium.tar.bz2",
+        "sha256":  "9e3febfacf0abf4270172d2958bcec246032b7e88efc2720840cc80c93de334e"
+    },
+    {
+        "path":  ".work/downloads/vits-piper-es_ES-sharvard-medium.tar.bz2",
+        "url":  "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-es_ES-sharvard-medium.tar.bz2",
+        "sha256":  "b30a7a83df0518f0ee1c7039506648cade99f1f9b498fc49ed2ced2e2536bb5a"
+    }
+]

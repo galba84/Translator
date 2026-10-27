@@ -1,0 +1,20 @@
+[
+  {
+    "source": "en",
+    "target": "es",
+    "text": "Good morning! Can you help me? Thank you very much.",
+    "result": "¡Buenos días! ¿Puedes ayudarme? Muchas gracias.",
+    "sentences": 3,
+    "words": 10,
+    "desktop_seconds": 4.573
+  },
+  {
+    "source": "es",
+    "target": "en",
+    "text": "Buenos días. ¿Puede ayudarme? Muchas gracias.",
+    "result": "Good morning. Can you help me? Thank you very much.",
+    "sentences": 3,
+    "words": 6,
+    "desktop_seconds": 5.275
+  }
+]

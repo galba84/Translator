@@ -1,0 +1,25 @@
+Offline Translator
+
+Translation: Helsinki-NLP OPUS-MT models, Apache License 2.0, distributed as pinned ONNX conversions by Xenova. Models: opus-mt-en-es, opus-mt-es-en. Copyright their respective authors.
+https://huggingface.co/Helsinki-NLP
+https://huggingface.co/Xenova
+
+Speech recognition: multilingual Whisper base, OpenAI, MIT License.
+https://github.com/openai/whisper
+
+Speech inference: sherpa-onnx 1.12.20, k2-fsa, Apache License 2.0.
+https://github.com/k2-fsa/sherpa-onnx/tree/v1.12.20
+
+Translation inference: ONNX Runtime 1.23.2, Microsoft Corporation, MIT License. Additional native dependencies retain their individual notices.
+https://github.com/microsoft/onnxruntime/tree/v1.23.2
+
+Speech output: Piper-format English lessac-medium and Spanish sharvard-medium voices, distributed by rhasspy/piper-voices and converted for sherpa-onnx. The upstream voice repository is labelled MIT; each original MODEL_CARD is also included with the bundled model. Spanish SHARVARD dataset attribution: Universidad Carlos III de Madrid / University of Edinburgh, CC BY 3.0, https://datashare.ed.ac.uk/handle/10283/574. English Lessac dataset provenance: https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/. Training recordings are not bundled or redistributed by this application.
+https://huggingface.co/rhasspy/piper-voices
+
+Phonemization: eSpeak NG, GPL version 3 or later, with source at https://github.com/csukuangfj/espeak-ng/tree/f6fed6c58b5e0998b8e68c6610125e2d07d595a7; Piper phonemize, MIT, source at https://github.com/csukuangfj/piper-phonemize/tree/78a788e0b719013401572d70fef372e77bff8e43. Native build definitions and dependency source revisions are in sherpa-onnx 1.12.20 cmake/ and build-android scripts. Preserve the applicable licenses and corresponding-source obligations when redistributing binaries.
+
+SentencePiece model format and original tokenizers: Google, Apache License 2.0. The application implements source-vocabulary unigram segmentation in Kotlin; reference fixtures were generated with the upstream SentencePiece library.
+
+AndroidX / Jetpack Compose: Android Open Source Project, Apache License 2.0. Kotlin and kotlinx.coroutines: JetBrains, Apache License 2.0.
+
+Full license texts and ONNX Runtime third-party acknowledgements follow.

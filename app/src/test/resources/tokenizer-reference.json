@@ -1,0 +1,189 @@
+[
+  {
+    "pair": "en-es",
+    "text": "Hello, how are you?",
+    "ids": [
+      3923,
+      2,
+      370,
+      53,
+      40,
+      21,
+      0
+    ]
+  },
+  {
+    "pair": "en-es",
+    "text": "I need some water.",
+    "ids": [
+      33,
+      265,
+      234,
+      821,
+      3,
+      0
+    ]
+  },
+  {
+    "pair": "en-es",
+    "text": "Where is the train station?",
+    "ids": [
+      1320,
+      31,
+      5,
+      5177,
+      4466,
+      21,
+      0
+    ]
+  },
+  {
+    "pair": "en-es",
+    "text": "It's a beautiful day. I would like a cup of coffee.",
+    "ids": [
+      94,
+      20,
+      9,
+      8,
+      2452,
+      502,
+      3,
+      33,
+      134,
+      172,
+      8,
+      13002,
+      7,
+      6114,
+      3,
+      0
+    ]
+  },
+  {
+    "pair": "en-es",
+    "text": "The price is 12.50 euros.",
+    "ids": [
+      42,
+      1684,
+      31,
+      367,
+      10021,
+      3377,
+      3,
+      0
+    ]
+  },
+  {
+    "pair": "en-es",
+    "text": "Good morning! Can you help me? Thank you very much.",
+    "ids": [
+      1922,
+      2731,
+      55,
+      1283,
+      40,
+      534,
+      74,
+      21,
+      1825,
+      40,
+      310,
+      590,
+      3,
+      0
+    ]
+  },
+  {
+    "pair": "es-en",
+    "text": "Buenos días. ¿Cómo estás?",
+    "ids": [
+      4062,
+      628,
+      3,
+      50,
+      1102,
+      1221,
+      21,
+      0
+    ]
+  },
+  {
+    "pair": "es-en",
+    "text": "Necesito agua, por favor.",
+    "ids": [
+      8085,
+      881,
+      2,
+      36,
+      601,
+      3,
+      0
+    ]
+  },
+  {
+    "pair": "es-en",
+    "text": "¿Dónde está la estación de tren?",
+    "ids": [
+      50,
+      2732,
+      108,
+      6,
+      5369,
+      4,
+      6933,
+      21,
+      0
+    ]
+  },
+  {
+    "pair": "es-en",
+    "text": "¡Muchas gracias! Me gustaría una taza de café.",
+    "ids": [
+      107,
+      43087,
+      1478,
+      55,
+      377,
+      3756,
+      38,
+      17204,
+      4,
+      5465,
+      3,
+      0
+    ]
+  },
+  {
+    "pair": "es-en",
+    "text": "El precio es de 12,50 euros.",
+    "ids": [
+      54,
+      1882,
+      43,
+      4,
+      367,
+      2,
+      2279,
+      3377,
+      3,
+      0
+    ]
+  },
+  {
+    "pair": "es-en",
+    "text": "Buenos días. ¿Puede ayudarme? Muchas gracias.",
+    "ids": [
+      4062,
+      628,
+      3,
+      50,
+      12528,
+      22654,
+      21,
+      6489,
+      1478,
+      3,
+      0
+    ]
+  }
+]
