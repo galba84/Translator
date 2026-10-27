@@ -2,6 +2,12 @@
 
 An Android app for translating English and Spanish entirely on device, built with Kotlin, Jetpack Compose, and local speech and translation models. It supports text-to-text, speech-to-text, text-to-speech, and speech-to-speech translation, displaying translated text in every mode. No account, API key, system speech engine, or runtime network permission is required.
 
+## App interface
+
+<img src="docs/screenshots/translator.png" alt="Offline Translator app showing English-to-Spanish text translation" width="360" />
+
+*English-to-Spanish translation running locally on an Android emulator.*
+
 ## Project highlights
 
 - **On-device inference:** Marian/OPUS-MT translation through ONNX Runtime, Whisper recognition, and Piper-format speech synthesis through sherpa-onnx.
